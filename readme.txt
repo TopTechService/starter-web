@@ -7,3 +7,5 @@ Added a new line
 And another
 
 Final change
+
+New changes etc.
