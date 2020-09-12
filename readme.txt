@@ -3,3 +3,7 @@
 ## To Learn Compare
 
 Added a new line
+
+And another
+
+Final change
